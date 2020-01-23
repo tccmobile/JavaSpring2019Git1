@@ -6,7 +6,7 @@ public class TextMsgExpander {
         String userLine;
 
         // Prompt user for text
-        System.out.println("Enter text:");
+        System.out.println("Enter your text:");
         userLine = scnr.nextLine();
         System.out.println("You entered: " + userLine);
         System.out.println("");
